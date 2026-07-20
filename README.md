@@ -18,10 +18,10 @@ column groups:
 
 248 of the 261 rows have populated damping coefficients (post-liftoff). rows 0.02 → 0.18 s show `Rest` in the damping columns — pre-liftoff, on-rail, damping not yet meaningful.
 
-## Did we launch?
+## Outcome of the actual launch?
 
-short answer: yes we launched 
-long answer: yes we launched but didnt recieve a dime of data (the rocket is probably in an alligators backyard) 
+* **short answer**: we launched succesfully! 
+* **long answer**: we launched succesfully but didnt recieve a dime of data (the rocket is probably in an alligators backyard) 
 
 ## things worth knowing before loading
 
